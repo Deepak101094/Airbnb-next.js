@@ -1,6 +1,5 @@
 "use client";
 
-import React from "react";
 import L from "leaflet";
 import { MapContainer, Marker, TileLayer } from "react-leaflet";
 
