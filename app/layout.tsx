@@ -35,7 +35,7 @@ export default async function RootLayout({
 				<RegisterModal />
 				<Navbar currentUser={currentUser} />
 				{/* </ClientOnly> */}
-				<div className='pb-20 pt-20'>{children}</div>
+				<div className='pb-20 pt-24'>{children}</div>
 			</body>
 		</html>
 	);
